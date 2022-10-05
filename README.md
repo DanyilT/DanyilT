@@ -7,14 +7,14 @@ readme plz
 __________________________________________________________________________________________________________
 You can say me Dany, not Danny, because i so want it to be different from normal😅
 __________________________________________________________________________________
-i from 🇺🇦, but i think its not very important😅
+i from  🇺🇦, but i think its not very important😅
 _______________________________________________
 i know a few languages >↓
 
- 😺java
+   😺java
  
- 😺python
+   😺python
  
- 😺html
+   😺html
  
- 😺css
+   😺css
