@@ -11,10 +11,10 @@ i from  🇺🇦, but i think its not very important😅
 _______________________________________________
 i know a few languages >↓
 
-   😺java
+>>😺java
  
-   😺python
+>>😺python
  
-   😺html
+>>😺html
  
-   😺css
+>>😺css
