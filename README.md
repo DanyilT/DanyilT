@@ -9,8 +9,8 @@ i know a few languages >↓
 
 >java
  
->>python
+>python
  
->>html
+>html
  
->>css
+>css
