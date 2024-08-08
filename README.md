@@ -7,10 +7,10 @@ hello👋
 __________________________________________________________________________________
 i can speak a few languages >↓
 
->- java
->- python
->- javascript, react.js
->- html/css
->- solidity
->- whitespace
->- brainfuck
+- > java
+- > python
+- > javascript, react.js
+- > html/css
+- > solidity
+- > whitespace
+- > brainfuck
