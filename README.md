@@ -7,7 +7,7 @@ hello👋
 __________________________________________________________________________________
 i can speak a few languages >↓
 
->java>
+>java<
 >python
 >
 >javascript, react.js
