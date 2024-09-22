@@ -19,27 +19,22 @@ I know, It's look ugly
 
 for quick jump:
 
-[WebDev](https://github.com/DanyilT/WebDev)
-[Java](https://github.com/DanyilT/Java)
-[Python](https://github.com/DanyilT/Pyhon)
-
-
 [GitHub Pages](https://danyilt.github.io/WebDev/)
 
 
 ## Repo
 
-### WebDev
+### [WebDev](https://github.com/DanyilT/WebDev)
     ```sh
     git clone https://github.com/DanyilT/WebDev.git
     ```
 
-### Java
+### [Java](https://github.com/DanyilT/Java)
     ```sh
     git clone https://github.com/DanyilT/Java.git
     ```
 
-### Python
+### [Python](https://github.com/DanyilT/Pyhon)
     ```sh
     git clone https://github.com/DanyilT/Python.git
     ```
