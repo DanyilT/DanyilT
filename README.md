@@ -14,3 +14,14 @@ i can speak a few languages >↓
 - > solidity
 - > whitespace
 - > brainfuck
+
+I know, It's look ugly
+
+for quick jump:
+
+[WebDev](https://github.com/DanyilT/WebDev)
+[Java](https://github.com/DanyilT/Java)
+[Python](https://github.com/DanyilT/Pyhon)
+
+
+[GitHub Pages](https://danyilt.github.io/WebDev/)
