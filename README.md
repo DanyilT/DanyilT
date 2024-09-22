@@ -25,3 +25,21 @@ for quick jump:
 
 
 [GitHub Pages](https://danyilt.github.io/WebDev/)
+
+
+## Repo
+
+### WebDev
+    ```sh
+    git clone https://github.com/DanyilT/WebDev.git
+    ```
+
+### Java
+    ```sh
+    git clone https://github.com/DanyilT/Java.git
+    ```
+
+### Python
+    ```sh
+    git clone https://github.com/DanyilT/Python.git
+    ```
