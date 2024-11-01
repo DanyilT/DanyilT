@@ -6,13 +6,13 @@ hello👋
 🔆Good morning and/or any other term that characterizes your position in this world at the moment depending on the time zone and time when you are reading this🌝
 __________________________________________________________________________________
 > __i can speak a few languages >↓__
-> java
-> python
-> javascript, react.js
-> html/css
-> solidity
-> whitespace
-> brainfuck
+> - java
+> - python
+> - javascript, react.js
+> - html/css
+> - solidity
+> - whitespace
+> - brainfuck
 
 I know, It's look ugly
 
