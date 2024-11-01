@@ -25,16 +25,16 @@ for quick jump:
 ## Repo
 
 ### [WebDev](https://github.com/DanyilT/WebDev)
-    ```sh
-    git clone https://github.com/DanyilT/WebDev.git
-    ```
+```sh
+git clone https://github.com/DanyilT/WebDev.git
+```
 
 ### [Java](https://github.com/DanyilT/Java)
-    ```sh
-    git clone https://github.com/DanyilT/Java.git
-    ```
+```sh
+git clone https://github.com/DanyilT/Java.git
+```
 
 ### [Python](https://github.com/DanyilT/Pyhon)
-    ```sh
-    git clone https://github.com/DanyilT/Python.git
-    ```
+```sh
+git clone https://github.com/DanyilT/Python.git
+```
